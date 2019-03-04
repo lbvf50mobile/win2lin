@@ -19,3 +19,7 @@
 ## Mint Docs
 
 - [Linux Mint Instalation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/)
+
+## UEFI
+
+- [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
