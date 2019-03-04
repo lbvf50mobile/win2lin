@@ -1,4 +1,4 @@
-# Moving from Widnows to Linux.
+# Moving from Windows to GNU/Linux.
 
 ## Step #1 create Linux on Pornable HHD
 
