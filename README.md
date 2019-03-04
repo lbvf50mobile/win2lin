@@ -30,3 +30,10 @@
     - `2015-11-12 12:56:35, Info                  IBS    Callback_BootEnvironmentDetect: Detected boot environment: EFI`
     - `win+R` => `msinfo32`
     - `System Information > BIOS MODE > UEFI`
+
+# Mint Blurring fonts
+
+- [Linux Mint 19 font rendering](https://www.reddit.com/r/linuxmint/comments/9r9wtr/linux_mint_19_font_rendering/)
+- [How cat I reset the default font (because of blurred characters)?](https://unix.stackexchange.com/questions/132164/how-can-i-reset-the-default-font-because-of-blurred-characters)
+- [LM17 Cinnamon Blurred Fonts](https://forums.linuxmint.com/viewtopic.php?t=171779)
+- [Blurry/fuzzy text and icons](https://forums.linuxmint.com/viewtopic.php?t=254831)
