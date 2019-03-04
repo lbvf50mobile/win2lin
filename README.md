@@ -30,6 +30,7 @@
     - `2015-11-12 12:56:35, Info                  IBS    Callback_BootEnvironmentDetect: Detected boot environment: EFI`
     - `win+R` => `msinfo32`
     - `System Information > BIOS MODE > UEFI`
+- [Extensible Firmware Interface (EFI) and Unified EFI (UEFI)](https://www.intel.com/content/www/us/en/architecture-and-technology/unified-extensible-firmware-interface/efi-homepage-general-technology.html)
 
 # Mint Blurring fonts
 
