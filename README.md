@@ -24,3 +24,4 @@
 
 - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 - [How To Configure And Use UEFI In Windows 8.1](https://www.itechtics.com/uefi-windows-8-1/)
+- [UEFI Secure Boot in Windows 8.1 ](https://answers.microsoft.com/en-us/windows/forum/windows8_1-security/uefi-secure-boot-in-windows-81/65d74e19-9572-4a91-85aa-57fa783f0759)
