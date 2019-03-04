@@ -1,6 +1,6 @@
 # Moving from Windows to GNU/Linux.
 
-## Step #1 create Linux on Pornable HHD
+## Step #1 create Linux on Pornable HDD
 
 - [Macking a portable full instalation of Ubuntu on a USB HDD](https://www.dionysopoulos.me/portable-ubuntu-on-usb-hdd/)
 - [How to install Ubuntu on portable extrnal hard Drive](https://askubuntu.com/questions/446682/how-to-install-ubuntu-on-portable-external-hard-drive)
@@ -32,7 +32,7 @@
     - `System Information > BIOS MODE > UEFI`
 - [Extensible Firmware Interface (EFI) and Unified EFI (UEFI)](https://www.intel.com/content/www/us/en/architecture-and-technology/unified-extensible-firmware-interface/efi-homepage-general-technology.html)
 
-# Mint Blurring fonts
+## Mint Blurring fonts
 
 - [Linux Mint 19 font rendering](https://www.reddit.com/r/linuxmint/comments/9r9wtr/linux_mint_19_font_rendering/)
 - [How cat I reset the default font (because of blurred characters)?](https://unix.stackexchange.com/questions/132164/how-can-i-reset-the-default-font-because-of-blurred-characters)
