@@ -8,3 +8,4 @@
 ## My PC
 
 -[Lenovo Idea Pad z580](https://wiki.archlinux.org/index.php/Lenovo_IdeaPad_Z580)
+-[InstallingDebion on Lenovo IdeaPad 300-15ISK](https://wiki.debian.org/InstallingDebianOn/Lenovo/IdeaPad%20300-15ISK)
