@@ -4,3 +4,7 @@
 
 - [Macking a portable full instalation of Ubuntu on a USB HDD](https://www.dionysopoulos.me/portable-ubuntu-on-usb-hdd/)
 - [How to install Umunto on portable extrnal hard Drive](https://askubuntu.com/questions/446682/how-to-install-ubuntu-on-portable-external-hard-drive)
+
+## My PC
+
+-[Lenovo Idea Pad z580](https://wiki.archlinux.org/index.php/Lenovo_IdeaPad_Z580)
