@@ -25,3 +25,8 @@
 - [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/)
 - [How To Configure And Use UEFI In Windows 8.1](https://www.itechtics.com/uefi-windows-8-1/)
 - [UEFI Secure Boot in Windows 8.1 ](https://answers.microsoft.com/en-us/windows/forum/windows8_1-security/uefi-secure-boot-in-windows-81/65d74e19-9572-4a91-85aa-57fa783f0759)
+- [How to know if my computer is using EFI/UEFI or BIOS firmware interface?](https://kb.parallels.com/en/115815)
+    - `C:\Windows\Panther\setupact.log`
+    - `2015-11-12 12:56:35, Info                  IBS    Callback_BootEnvironmentDetect: Detected boot environment: EFI`
+    - `win+R` => `msinfo32`
+    - `System Information > BIOS MODE > UEFI`
