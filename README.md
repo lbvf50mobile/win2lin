@@ -32,6 +32,10 @@
     - `System Information > BIOS MODE > UEFI`
 - [Extensible Firmware Interface (EFI) and Unified EFI (UEFI)](https://www.intel.com/content/www/us/en/architecture-and-technology/unified-extensible-firmware-interface/efi-homepage-general-technology.html)
 
+### UEFI Mint
+
+- [Mint on External HDD](https://forums.linuxmint.com/viewtopic.php?t=189505)
+
 ## Mint Blurring fonts
 
 - [Linux Mint 19 font rendering](https://www.reddit.com/r/linuxmint/comments/9r9wtr/linux_mint_19_font_rendering/)
