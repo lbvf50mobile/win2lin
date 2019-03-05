@@ -40,6 +40,15 @@
 - [Problems installing Linux Mint on external hard drive](https://forums.linuxmint.com/viewtopic.php?t=243723)
     - [How to install Ubuntu 15.04, Linux Mint 17.2 on an external hard drive](http://linuxbsdos.com/2015/09/13/how-to-install-ubuntu-15-04-linux-mint-17-2-on-an-external-hard-drive/)
     -[Tips for installing a Linux distribution on an external hard drive](http://linuxbsdos.com/2015/09/12/tips-for-installing-a-linux-distribution-on-an-external-hard-drive/)
+    -[Guide to disks and disk partitions in Linux](http://linuxbsdos.com/2011/09/18/guide-to-disks-and-disk-partitions-in-linux/)
+    -[Install Linux Mint External Hard Drive Partition](https://unix.stackexchange.com/questions/295454/install-linux-mint-external-hard-drive-partition/305156)
+    -[GParted partitioning software - Full tutorial ](https://www.dedoimedo.com/computers/gparted.html)
+
+### Mint Video
+
+- [How to Install Linux Mint 17.1 on External Hard Drive](https://youtu.be/vbdAmJ5jzfM)
+- [How To Install Linux to an External USB SSD or HDD](https://youtu.be/glFCEauwGgw)
+
 
 ## Mint Blurring fonts
 
