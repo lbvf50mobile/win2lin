@@ -36,6 +36,7 @@
 
 - [Mint on External HDD](https://forums.linuxmint.com/viewtopic.php?t=189505)
 - [Full install onto SD card](https://forums.linuxmint.com/viewtopic.php?f=46&t=189331#p980629)
+- [(Solved) Is it possible to install Mint on a USB hard disk without data loss?](https://forums.linuxmint.com/viewtopic.php?t=265649)
 
 ## Mint Blurring fonts
 
