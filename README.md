@@ -35,6 +35,7 @@
 ### UEFI Mint
 
 - [Mint on External HDD](https://forums.linuxmint.com/viewtopic.php?t=189505)
+- [Full install onto SD card](https://forums.linuxmint.com/viewtopic.php?f=46&t=189331#p980629)
 
 ## Mint Blurring fonts
 
