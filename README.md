@@ -48,6 +48,7 @@
 
 - [How to Install Linux Mint 17.1 on External Hard Drive](https://youtu.be/vbdAmJ5jzfM)
 - [How To Install Linux to an External USB SSD or HDD](https://youtu.be/glFCEauwGgw)
+- [install Mint/Ubuntu a external harddrive of flash drive](https://youtu.be/JKL1tmn-xC0)
 
 
 ## Mint Blurring fonts
