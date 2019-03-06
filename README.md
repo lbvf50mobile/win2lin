@@ -50,6 +50,7 @@
 - [MBR or GPT for external backup drive](https://superuser.com/questions/1288613/mbr-or-gpt-for-external-backup-drive)
 - [Online GUID Generator](https://www.guidgenerator.com/)
 - [How to Convert External Hard Drive to GPT Disk?](https://www.disk-partition.com/articles/convert-external-hard-drive-to-gpt-4125.html)
+- [To GPT or not to GPT, That is the Question?](https://forums.linuxmint.com/viewtopic.php?t=211265)
 
 
 ### Mint Video
