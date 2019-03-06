@@ -49,6 +49,7 @@
 - [What’s the Difference Between GPT and MBR When Partitioning a Drive?](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
 - [MBR or GPT for external backup drive](https://superuser.com/questions/1288613/mbr-or-gpt-for-external-backup-drive)
 - [Online GUID Generator](https://www.guidgenerator.com/)
+- [How to Convert External Hard Drive to GPT Disk?](https://www.disk-partition.com/articles/convert-external-hard-drive-to-gpt-4125.html)
 
 
 ### Mint Video
