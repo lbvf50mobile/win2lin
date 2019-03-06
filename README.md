@@ -44,6 +44,13 @@
     - [Install Linux Mint External Hard Drive Partition](https://unix.stackexchange.com/questions/295454/install-linux-mint-external-hard-drive-partition/305156)
     - [GParted partitioning software - Full tutorial ](https://www.dedoimedo.com/computers/gparted.html)
 
+#### GPT/MBR partition type (Globally Unique Identifier or 'Universally Unique Identifier')
+
+- [What’s the Difference Between GPT and MBR When Partitioning a Drive?](https://www.howtogeek.com/193669/whats-the-difference-between-gpt-and-mbr-when-partitioning-a-drive/)
+- [MBR or GPT for external backup drive](https://superuser.com/questions/1288613/mbr-or-gpt-for-external-backup-drive)
+- [Online GUID Generator](https://www.guidgenerator.com/)
+
+
 ### Mint Video
 
 - [How to Install Linux Mint 17.1 on External Hard Drive](https://youtu.be/vbdAmJ5jzfM)
